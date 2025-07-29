@@ -14,8 +14,16 @@ https://huggingface.co/spaces/Thanu2005/haven-ai-chatbot
 * **Conversational Fallback**: ...
 * **User-Friendly Interface**: ...
 
-## Setup
->git clone https://github.com/Thanushreems2005/haven_ai_chatbot
->cd haven-ai
->pip install -r requirements.txt
->python app.py
+⚙️ Setup
+Follow these steps to run Haven AI locally:
+Clone the repository:
+git clone https://github.com/Thanushreems2005/haven_ai_chatbot
+
+Navigate to the project directory:
+cd haven_ai_chatbot
+
+Install the required packages:
+pip install -r requirements.txt
+
+Start the Flask app:
+python app.py
