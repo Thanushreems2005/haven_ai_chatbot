@@ -15,7 +15,7 @@ https://huggingface.co/spaces/Thanu2005/haven-ai-chatbot
 * **User-Friendly Interface**: ...
 
 ## Setup
-git clone https://github.com/Thanushreems2005/haven_ai_chatbot
-cd haven-ai
-pip install -r requirements.txt
-python app.py
+>git clone https://github.com/Thanushreems2005/haven_ai_chatbot
+>cd haven-ai
+>pip install -r requirements.txt
+>python app.py
