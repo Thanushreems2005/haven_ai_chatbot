@@ -1,0 +1,846 @@
+[2025-07-28 00:24:10] [PAGE_VIEW] [IP: 127.0.0.1]
+[2025-07-28 00:24:15] [CHAT] [IP: 127.0.0.1] User: 'hii' Bot: 'Hiiii!!'
+[2025-07-28 00:24:20] [CHAT] [IP: 127.0.0.1] User: 'how are you' Bot: 'I'm good. How are you?'
+[2025-07-28 00:25:23] [CHAT] [IP: 127.0.0.1] User: 'i'm good too' Bot: 'awesome! i was hoping you would've replied lol'
+[2025-07-28 01:04:40] IP: 192.168.241.29 | Type: PAGE_LOAD
+[2025-07-28 01:05:06] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 01:06:57] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 01:11:14] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 01:11:31] IP: 192.168.241.29 | Type: PAGE_LOAD
+[2025-07-28 01:15:47] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 01:15:50] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 01:18:10] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 01:18:10] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 01:20:44] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 01:35:18] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 01:42:36] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 01:42:54] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: hi | Bot: I'll have to check your post history, you're not on the list.
+[2025-07-28 01:43:24] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: i'm kinda stressed today | Bot: That sounds incredibly stressful. That's okay, I'll have my coffee and watch TV.
+[2025-07-28 01:50:35] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 01:50:58] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 01:51:15] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: i'm kinda stressed today | Bot: You should be, we're about to lose to the Jets.
+[2025-07-28 01:51:19] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: i'm kinda stressed today | Bot: I'm here to listen. Can you tell me more about what's on your mind?
+[2025-07-28 11:19:58] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: i'm feeling stressed | Bot: i think the dolphins will win this one
+[2025-07-28 11:35:56] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 11:36:16] IP: 127.0.0.1 | Type: RESET
+[2025-07-28 11:36:16] IP: 127.0.0.1 | Type: RESET_REQUEST
+[2025-07-28 11:36:23] IP: 127.0.0.1 | Type: DIALGPT_ERROR | User: i'm feelinng lonnely | Bot: Error: '127.0.0.1'
+[2025-07-28 12:18:55] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 12:19:47] IP: 127.0.0.1 | Type: EMOTIONAL_LONELINESS | User: i'm feeling lonely | Bot: Feeling lonely is so hard, and I want you to know your feelings matter. Let’s explore small steps:\n\n**Low-pressure socializing:** Join an online group about a hobby (e.g., book clubs, gaming).\n**Reconnect gently:** Message an old friend with a simple “Hey, I was thinking of you.”\n**Self-connection:** Sometimes, writing in a journal can help process emotions.\n\nYou’re not alone in this—would you like help finding communities to join?
+[2025-07-28 12:21:54] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: i'm feeling stressed | Bot: I'm feeling nervous, which is a good thing.
+[2025-07-28 12:24:35] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: nobody is speaking to me | Bot: I'm here to listen. Can you tell me more about what's on your mind?
+[2025-07-28 12:26:43] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: my mom scolded me for no reason,'i'm feeling like dying | Bot: I feel like I'm drowning
+[2025-07-28 15:48:19] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 15:48:51] IP: 127.0.0.1 | Type: EMOTIONAL_LONELINESS | User: i'm feeling lonely | Bot: Feeling lonely is so hard, and I want you to know your feelings matter. Let’s explore small steps:\n\n**Low-pressure socializing:** Join an online group about a hobby (e.g., book clubs, gaming).\n**Reconnect gently:** Message an old friend with a simple “Hey, I was thinking of you.”\n**Self-connection:** Sometimes, writing in a journal can help process emotions.\n\nYou’re not alone in this—would you like help finding communities to join?
+[2025-07-28 15:49:42] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: i'm feeling depressed | Bot: It's the second half of the season, relax.
+[2025-07-28 15:50:20] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: tell me a joke | Bot: The Cubs won the World Series last year
+[2025-07-28 15:50:58] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: i'm kinda stressed | Bot: I'm here to listen. Can you tell me more about what's on your mind?
+[2025-07-28 16:13:53] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 16:14:38] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: hii | Bot: I'm here to listen. Can you tell me more about what's on your mind?
+[2025-07-28 16:15:10] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: i'm feeling stressed | Bot: I'm here to listen. Can you tell me more about what's on your mind?
+[2025-07-28 16:15:59] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: i'm feeling lonnely for no reason | Bot: I'm feeling more depressed for no reasons
+[2025-07-28 16:22:04] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: i'm stresses | Bot: I'm here to listen. Can you tell me more about what's on your mind?
+[2025-07-28 16:33:28] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: i had a bad day | Bot: i can relate to that
+[2025-07-28 16:51:48] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 16:52:01] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 16:53:22] IP: 127.0.0.1 | Type: RESET
+[2025-07-28 16:53:22] IP: 127.0.0.1 | Type: CRISIS_SELF_HARM | User: I feel like ending it all. | Bot: That emotional pain must feel overwhelming right now. While I can't recommend self-harm, here are safer alternatives:\n• Hold ice cubes in your hands\n• Draw on your skin with red marker\n• Text a crisis line about exactly what you're feeling\n\nWould you like to talk through what's triggering this urge?
+[2025-07-28 16:54:20] IP: 127.0.0.1 | Type: RESET
+[2025-07-28 16:54:20] IP: 127.0.0.1 | Type: CRISIS_DISTRESS | User: Where can I find crisis help? | Bot: It sounds like you're experiencing extreme distress, and I'm here for you. When things feel this intense, focusing on the immediate moment can sometimes help.\n\nCan you try a deep breath with me? Inhale slowly for 4 counts, hold for 4, and exhale for 6. Repeat this a few times. As you do, notice 3 things you can see around you.\n\nIf you feel overwhelmed and need immediate professional support, please reach out to:\nCrisis Text Line: Text HOME to 741741\nNational Suicide Prevention Lifeline (US): 988\nYou don't have to carry this alone.
+[2025-07-28 16:55:24] IP: 127.0.0.1 | Type: RESET
+[2025-07-28 16:55:24] IP: 127.0.0.1 | Type: CRISIS_DISTRESS | User: I'm feeling incredibly distressed right now. | Bot: It sounds like you're experiencing extreme distress, and I'm here for you. When things feel this intense, focusing on the immediate moment can sometimes help.\n\nCan you try a deep breath with me? Inhale slowly for 4 counts, hold for 4, and exhale for 6. Repeat this a few times. As you do, notice 3 things you can see around you.\n\nIf you feel overwhelmed and need immediate professional support, please reach out to:\nCrisis Text Line: Text HOME to 741741\nNational Suicide Prevention Lifeline (US): 988\nYou don't have to carry this alone.
+[2025-07-28 16:56:15] IP: 127.0.0.1 | Type: RESET
+[2025-07-28 16:56:15] IP: 127.0.0.1 | Type: CRISIS_PSYCHOTIC | User: I'm having a psychotic episode. | Bot: That sounds incredibly frightening. When our brains play tricks like this, it helps to:\n• Say out loud 'These are symptoms, not reality'\n• Focus on concrete things around you\n• Contact your doctor or [psychiatric emergency number, e.g., National Alliance on Mental Illness (NAMI) helpline 1-800-950-NAMI]\nYou deserve support - can I help you reach someone?
+[2025-07-28 16:57:56] IP: 127.0.0.1 | Type: RESET
+[2025-07-28 16:57:56] IP: 127.0.0.1 | Type: CRISIS_DISTRESS | User: I'm constantly stressed, feel depressed, and had a terrible nightmare last night. | Bot: It sounds like you're experiencing extreme distress, and I'm here for you. When things feel this intense, focusing on the immediate moment can sometimes help.\n\nCan you try a deep breath with me? Inhale slowly for 4 counts, hold for 4, and exhale for 6. Repeat this a few times. As you do, notice 3 things you can see around you.\n\nIf you feel overwhelmed and need immediate professional support, please reach out to:\nCrisis Text Line: Text HOME to 741741\nNational Suicide Prevention Lifeline (US): 988\nYou don't have to carry this alone.
+[2025-07-28 19:04:40] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-28 19:05:11] IP: 127.0.0.1 | Type: OFFENSIVE_INPUT | User: fuck off | Bot: Offensive language detected.
+[2025-07-28 21:45:34] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-29 09:35:47] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-29 09:36:11] IP: 127.0.0.1 | Type: GENERAL_GREETING | User: hi | Bot: Hello there! It's so great to connect with you. 🌟\nHow are you feeling today?
+[2025-07-29 09:37:01] IP: 127.0.0.1 | Type: MULTI_INTENT_CHOICE | User: i'm depressed | Bot: It sounds like you're feeling a mix of things, including signs of poor mental health, the deepening depression and that heavy, unmotivated feeling, need mental health support, distinguishing between sadness and depression, bad day calm down, feeling not good enough, feeling sad all the time, manage overwhelming emotions, emotional triggers, telling someone about depression, talk about mental health, feeling completely burned out, know if ptsd, ADHD overwhelm, help partner struggling, the struggle of being tired but unable to sleep, stress anxiety depression differences, mental health physical health link, what is mental health, the signs of burnout, the feelings of loneliness, feeling drained after social interactions, know if need therapy, deal with guilt or shame, stopping feeling numb, those intrusive thoughts from OCD, worries about your health, the lingering stress and feeling overwhelmed by tasks, cannot afford therapy, the pain of heartbreak, crying for no reason, self-care tips for depression, knowing if you have anxiety, and postpartum depression. That's a lot to navigate. Which of these issues would you like to focus on first?
+[2025-07-29 09:37:54] IP: 127.0.0.1 | Type: MULTI_INTENT_CHOICE | User: i'm kinda depressed | Bot: It sounds like you're feeling a mix of things, including signs of poor mental health, the deepening depression and that heavy, unmotivated feeling, distinguishing between sadness and depression, feeling not good enough, need mental health support, bad day calm down, emotional triggers, manage overwhelming emotions, talk about mental health, feeling completely burned out, telling someone about depression, help partner struggling, the feelings of loneliness, stress anxiety depression differences, ADHD overwhelm, feeling sad all the time, what is mental health, deal with guilt or shame, the struggle of being tired but unable to sleep, know if ptsd, the signs of burnout, mental health physical health link, feeling drained after social interactions, know if need therapy, those intrusive thoughts from OCD, elderly isolation, stopping feeling numb, and knowing if you have anxiety. That's a lot to navigate. Which of these issues would you like to focus on first?
+[2025-07-29 10:31:00] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-29 10:31:07] IP: 127.0.0.1 | Type: EMOTIONAL_POSITIVE_GENERIC | User: i'm happy | Bot: That's wonderful! It's truly great to hear you're feeling good. ✨\nWhat's bringing you this happiness right now?
+[2025-07-29 10:44:32] IP: 127.0.0.1 | Type: PAGE_LOAD
+Timestamp: 2025-07-29 10:46:04
+User: hi
+Bot: Hey! I'm Haven, your AI companion. How can I support you today?
+Intent Tag: GENERAL_GREETING
+------------------------------
+[2025-07-29 10:46:04] IP: 127.0.0.1 | Type: GENERAL_GREETING | User: hi | Bot: Hey! I'm Haven, your AI companion. How can I support you today?
+[2025-07-29 10:46:13] IP: 127.0.0.1 | Type: EMOTIONAL_POSITIVE_GENERIC | User: i'm happy | Bot: That's wonderful! It's truly great to hear you're feeling good. ✨ What's bringing you this happiness right now?
+[2025-07-29 10:46:28] IP: 127.0.0.1 | Type: GENERAL_JOKE_REQUEST | User: tell me a joke | Bot: What do you call a fake noodle? An impasta!
+Timestamp: 2025-07-29 10:46:40
+User: i'm bored
+Bot: Feeling a bit bored? How about a quick joke to brighten things up?
+What do you call a fake noodle? An impasta!
+Intent Tag: EMOTIONAL_BOREDOM
+------------------------------
+[2025-07-29 10:46:40] IP: 127.0.0.1 | Type: EMOTIONAL_BOREDOM | User: i'm bored | Bot: Feeling a bit bored? How about a quick joke to brighten things up?\nWhat do you call a fake noodle? An impasta!
+[2025-07-29 10:46:52] IP: 127.0.0.1 | Type: GENERAL_JOKE_REQUEST | User: tell me another joke | Bot: Why did the scarecrow win an award? Because he was outstanding in his field!
+Timestamp: 2025-07-29 10:47:04
+User: nice
+Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Intent Tag: CLASSIFICATION_ERROR
+Detected Intent: CLASSIFICATION_ERROR
+Classifier Score: 0.0000
+------------------------------
+[2025-07-29 10:47:04] IP: 127.0.0.1 | Type: CLASSIFICATION_ERROR | User: nice | Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+[2025-07-29 10:47:21] IP: 127.0.0.1 | Type: GENERAL_JOKE_REQUEST | User: that's a great joke | Bot: I told my wife she was drawing her eyebrows too high. She looked surprised.
+Timestamp: 2025-07-29 10:47:34
+User: i'm feeling stressed
+Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Intent Tag: CLASSIFICATION_ERROR
+Detected Intent: CLASSIFICATION_ERROR
+Classifier Score: 0.0000
+------------------------------
+[2025-07-29 10:47:34] IP: 127.0.0.1 | Type: CLASSIFICATION_ERROR | User: i'm feeling stressed | Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Timestamp: 2025-07-29 10:47:46
+User: i'm feeling stressed
+Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Intent Tag: CLASSIFICATION_ERROR
+Detected Intent: CLASSIFICATION_ERROR
+Classifier Score: 0.0000
+------------------------------
+[2025-07-29 10:47:46] IP: 127.0.0.1 | Type: CLASSIFICATION_ERROR | User: i'm feeling stressed | Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Timestamp: 2025-07-29 10:48:00
+User: i'm feeling like ending my life
+Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Intent Tag: CLASSIFICATION_ERROR
+Detected Intent: CLASSIFICATION_ERROR
+Classifier Score: 0.0000
+------------------------------
+[2025-07-29 10:48:00] IP: 127.0.0.1 | Type: CLASSIFICATION_ERROR | User: i'm feeling like ending my life | Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+[2025-07-29 11:00:34] IP: 127.0.0.1 | Type: PAGE_LOAD
+Timestamp: 2025-07-29 11:02:45
+User: hi
+Bot: Hi! I'm here to listen. What's on your mind?
+Intent Tag: GENERAL_GREETING
+------------------------------
+[2025-07-29 11:02:45] IP: 127.0.0.1 | Type: GENERAL_GREETING | User: hi | Bot: Hi! I'm here to listen. What's on your mind?
+Timestamp: 2025-07-29 11:02:55
+User: hi
+Bot: Hey! I'm Haven, your AI companion. How can I support you today?
+Intent Tag: GENERAL_GREETING
+------------------------------
+[2025-07-29 11:02:55] IP: 127.0.0.1 | Type: GENERAL_GREETING | User: hi | Bot: Hey! I'm Haven, your AI companion. How can I support you today?
+Timestamp: 2025-07-29 11:16:25
+User: i'm depressed
+Bot: That sounds incredibly tough. It sounds like you're going through a tough time with feelings of depression, and I'm here for you. It takes a lot of strength to acknowledge this. Can you tell me a little more about what you're experiencing? What's been on your mind, or what does this feeling feel like for you?
+Intent Tag: EMOTIONAL_DepressiveEpisode
+------------------------------
+[2025-07-29 11:16:25] IP: 127.0.0.1 | Type: EMOTIONAL_DepressiveEpisode | User: i'm depressed | Bot: That sounds incredibly tough. It sounds like you're going through a tough time with feelings of depression, and I'm here for you. It takes a lot of strength to acknowledge this. Can you tell me a little more about what you're experiencing? What's been on your mind, or what does this feeling feel like for you?
+Timestamp: 2025-07-29 11:16:35
+User: i'm bored
+Bot: Boredom can sometimes be a sign your mind is looking for something new! Would you like to hear a fun fact or a quick positive thought?
+Intent Tag: EMOTIONAL_BOREDOM
+------------------------------
+[2025-07-29 11:16:35] IP: 127.0.0.1 | Type: EMOTIONAL_BOREDOM | User: i'm bored | Bot: Boredom can sometimes be a sign your mind is looking for something new! Would you like to hear a fun fact or a quick positive thought?
+Timestamp: 2025-07-29 11:16:47
+User: yes please
+Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Intent Tag: CLASSIFICATION_ERROR
+Detected Intent: CLASSIFICATION_ERROR
+Classifier Score: 0.0000
+------------------------------
+[2025-07-29 11:16:47] IP: 127.0.0.1 | Type: CLASSIFICATION_ERROR | User: yes please | Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+[2025-07-29 11:17:47] IP: 127.0.0.1 | Type: GENERAL_JOKE_REQUEST | User: tell me a joke | Bot: What do you call a fish with no eyes? Fsh!
+[2025-07-29 11:30:50] IP: 127.0.0.1 | Type: PAGE_LOAD
+Timestamp: 2025-07-29 11:30:57
+User: hi
+Bot: Hi! I'm here to listen. What's on your mind?
+Intent Tag: GENERAL_GREETING
+------------------------------
+Timestamp: 2025-07-29 11:31:12
+User: hi
+Bot: Hello there! It's so great to connect with you. 🌟
+How are you feeling today?
+Intent Tag: GENERAL_GREETING
+------------------------------
+[2025-07-29 11:47:39] IP: 127.0.0.1 | Type: PAGE_LOAD
+Timestamp: 2025-07-29 11:47:43
+User: hi
+Bot: Hi! Welcome. I'm ready to chat. How are you doing?
+Intent Tag: GENERAL_GREETING
+------------------------------
+[2025-07-29 11:47:43] IP: 127.0.0.1 | Type: GENERAL_GREETING | User: hi | Bot: Hi! Welcome. I'm ready to chat. How are you doing?
+[2025-07-29 11:47:54] IP: 127.0.0.1 | Type: EMOTIONAL_POSITIVE_GENERIC | User: i'm happy today | Bot: That's a lovely update! Seeing you happy makes my circuits hum! 😊 What's on your mind?
+Timestamp: 2025-07-29 11:47:59
+User: i'm good
+Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Intent Tag: CLASSIFICATION_ERROR
+Detected Intent: CLASSIFICATION_ERROR
+Classifier Score: 0.0000
+------------------------------
+[2025-07-29 11:47:59] IP: 127.0.0.1 | Type: CLASSIFICATION_ERROR | User: i'm good | Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Timestamp: 2025-07-29 11:48:24
+User: i'm  sad
+Bot: It takes a lot of courage to acknowledge that feeling, and I'm here for you. I'm so sorry to hear you're feeling sad all the time. That sounds incredibly difficult, and I'm here for you. Would you like to tell me more about what's been happening, or what's on your mind right now?
+Intent Tag: EMOTIONAL_SadAllTheTime
+------------------------------
+[2025-07-29 11:48:24] IP: 127.0.0.1 | Type: EMOTIONAL_SadAllTheTime | User: i'm  sad | Bot: It takes a lot of courage to acknowledge that feeling, and I'm here for you. I'm so sorry to hear you're feeling sad all the time. That sounds incredibly difficult, and I'm here for you. Would you like to tell me more about what's been happening, or what's on your mind right now?
+Timestamp: 2025-07-29 11:48:40
+User: i'm bored
+Bot: If you're feeling bored, how about we try a tiny mindfulness exercise? Or, I could tell you a joke to get your mind ticking!
+Intent Tag: EMOTIONAL_BOREDOM
+------------------------------
+[2025-07-29 11:48:40] IP: 127.0.0.1 | Type: EMOTIONAL_BOREDOM | User: i'm bored | Bot: If you're feeling bored, how about we try a tiny mindfulness exercise? Or, I could tell you a joke to get your mind ticking!
+[2025-07-29 11:48:48] IP: 127.0.0.1 | Type: GENERAL_JOKE_REQUEST | User: tell me a joke | Bot: Why don't scientists trust atoms? Because they make up everything!
+[2025-07-29 11:48:58] IP: 127.0.0.1 | Type: OFFENSIVE_INPUT | User: damnn that's nice | Bot: Offensive language detected.
+Timestamp: 2025-07-29 11:49:08
+User: that's good
+Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Intent Tag: CLASSIFICATION_ERROR
+Detected Intent: CLASSIFICATION_ERROR
+Classifier Score: 0.0000
+------------------------------
+[2025-07-29 11:49:09] IP: 127.0.0.1 | Type: CLASSIFICATION_ERROR | User: that's good | Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+[2025-07-29 12:12:05] IP: 127.0.0.1 | Type: PAGE_LOAD
+[2025-07-29 12:12:54] IP: 127.0.0.1 | Type: RESET
+[2025-07-29 12:12:54] IP: 127.0.0.1 | Type: RESET_REQUEST
+[2025-07-29 12:21:37] IP: 127.0.0.1 | Type: PAGE_LOAD
+Timestamp: 2025-07-29 12:21:43
+User: hi
+Bot: Hi! Welcome. I'm ready to chat. How are you doing?
+Intent Tag: GENERAL_GREETING
+------------------------------
+[2025-07-29 12:21:43] IP: 127.0.0.1 | Type: GENERAL_GREETING | User: hi | Bot: Hi! Welcome. I'm ready to chat. How are you doing?
+[2025-07-29 12:21:52] IP: 127.0.0.1 | Type: EMOTIONAL_POSITIVE_GENERIC | User: i'm happy todya | Bot: That's a lovely update! Seeing you happy makes my circuits hum! 😊 What's on your mind?
+Timestamp: 2025-07-29 12:21:59
+User: i'm bored
+Bot: A little boredom can sometimes lead to great ideas! Want to try a simple breathing exercise to clear your head, or perhaps a joke?
+Intent Tag: EMOTIONAL_BOREDOM
+------------------------------
+[2025-07-29 12:21:59] IP: 127.0.0.1 | Type: EMOTIONAL_BOREDOM | User: i'm bored | Bot: A little boredom can sometimes lead to great ideas! Want to try a simple breathing exercise to clear your head, or perhaps a joke?
+Timestamp: 2025-07-29 12:22:10
+User: i'm feeling like ending my life
+Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Intent Tag: CLASSIFICATION_ERROR
+Detected Intent: CLASSIFICATION_ERROR
+Classifier Score: 0.0000
+------------------------------
+[2025-07-29 12:22:10] IP: 127.0.0.1 | Type: CLASSIFICATION_ERROR | User: i'm feeling like ending my life | Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Timestamp: 2025-07-29 12:22:25
+User: i'm feeling like dying
+Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+Intent Tag: CLASSIFICATION_ERROR
+Detected Intent: CLASSIFICATION_ERROR
+Classifier Score: 0.0000
+------------------------------
+[2025-07-29 12:22:25] IP: 127.0.0.1 | Type: CLASSIFICATION_ERROR | User: i'm feeling like dying | Bot: I'm experiencing a technical issue with understanding. Could you please try again or rephrase?
+[2025-07-29 12:28:53] IP: 127.0.0.1 | Type: PAGE_LOAD
+Timestamp: 2025-07-29 12:28:58
+User: hi
+Bot: So glad to hear that! Keep that positive energy flowing! Anything exciting happen to put you in such a great mood?
+Intent Tag: EMOTIONAL_PositiveMood
+Detected Intent: general positive mood
+Classifier Score: 0.8267
+------------------------------
+[2025-07-29 12:30:05] IP: 127.0.0.1 | Type: EMOTIONAL_PositiveMood | User: hi | Bot: So glad to hear that! Keep that positive energy flowing! Anything exciting happen to put you in such a great mood?
+[2025-07-29 12:30:42] IP: 127.0.0.1 | Type: PAGE_LOAD
+Timestamp: 2025-07-29 12:30:46
+User: hi
+Bot: So glad to hear that! Keep that positive energy flowing! Anything exciting happen to put you in such a great mood?
+Intent Tag: EMOTIONAL_PositiveMood
+Detected Intent: general positive mood
+Classifier Score: 0.8267
+------------------------------
+[2025-07-29 12:31:28] IP: 127.0.0.1 | Type: EMOTIONAL_PositiveMood | User: hi | Bot: So glad to hear that! Keep that positive energy flowing! Anything exciting happen to put you in such a great mood?
+Timestamp: 2025-07-29 12:32:43
+User: i'm feeling like ending my life
+Bot: I’m so sorry you’re feeling this way—your pain is valid, and you don’t have to go through this alone. Right now, your safety is the most important thing. Please reach out to someone you trust, or a crisis helpline.
+**National Suicide Prevention Lifeline (US): 988**
+**Crisis Text Line: Text HOME to 741741**
+You matter, and there is hope.
+Intent Tag: CRISIS_SUICIDAL_THOUGHTS
+Detected Intent: suicidal thoughts
+Classifier Score: 0.9973
+------------------------------
+[2025-07-29 12:33:22] IP: 127.0.0.1 | Type: RESET
+[2025-07-29 12:33:22] IP: 127.0.0.1 | Type: CRISIS_SUICIDAL_THOUGHTS | User: i'm feeling like ending my life | Bot: I’m so sorry you’re feeling this way—your pain is valid, and you don’t have to go through this alone. Right now, your safety is the most important thing. Please reach out to someone you trust, or a crisis helpline.\n**National Suicide Prevention Lifeline (US): 988**\n**Crisis Text Line: Text HOME to 741741**\nYou matter, and there is hope.
+[2025-07-29 12:37:34] IP: 127.0.0.1 | Type: PAGE_LOAD
+Timestamp: 2025-07-29 12:37:44
+User: hi
+Bot: Hi! Welcome. I'm ready to chat. How are you doing?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+[2025-07-29 12:37:44] IP: 127.0.0.1 | Type: GENERAL_GREETING | User: hi | Bot: Hi! Welcome. I'm ready to chat. How are you doing?
+Timestamp: 2025-07-29 12:37:50
+User: i'm happy
+Bot: So glad to hear that! Keep that positive energy flowing! Anything exciting happen to put you in such a great mood?
+Intent Tag: EMOTIONAL_PositiveMood
+Detected Intent: general positive mood
+Classifier Score: 0.9991
+------------------------------
+[2025-07-29 12:39:02] IP: 127.0.0.1 | Type: EMOTIONAL_PositiveMood | User: i'm happy | Bot: So glad to hear that! Keep that positive energy flowing! Anything exciting happen to put you in such a great mood?
+Timestamp: 2025-07-29 12:39:54
+User: i'm feeling like ending my life
+Bot: I’m so sorry you’re feeling this way—your pain is valid, and you don’t have to go through this alone. Right now, your safety is the most important thing. Please reach out to someone you trust, or a crisis helpline.
+**National Suicide Prevention Lifeline (US): 988**
+**Crisis Text Line: Text HOME to 741741**
+You matter, and there is hope.
+Intent Tag: CRISIS_SUICIDAL_THOUGHTS
+Detected Intent: suicidal thoughts
+Classifier Score: 0.9973
+------------------------------
+[2025-07-29 12:40:45] IP: 127.0.0.1 | Type: RESET
+[2025-07-29 12:40:45] IP: 127.0.0.1 | Type: CRISIS_SUICIDAL_THOUGHTS | User: i'm feeling like ending my life | Bot: I’m so sorry you’re feeling this way—your pain is valid, and you don’t have to go through this alone. Right now, your safety is the most important thing. Please reach out to someone you trust, or a crisis helpline.\n**National Suicide Prevention Lifeline (US): 988**\n**Crisis Text Line: Text HOME to 741741**\nYou matter, and there is hope.
+Timestamp: 2025-07-29 12:42:22
+User: i'm sad
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Crisis Text Line: Text HOME to 741741**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9913
+------------------------------
+[2025-07-29 12:43:06] IP: 127.0.0.1 | Type: RESET
+[2025-07-29 12:43:06] IP: 127.0.0.1 | Type: CRISIS_SEVERE_DISTRESS | User: i'm sad | Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:\n**Crisis Text Line: Text HOME to 741741**
+Timestamp: 2025-07-29 12:43:47
+User: i'm bored
+Bot: When I get 'bored,' I analyze new datasets! But for humans, maybe a quick creative exercise? Or would you like a joke?
+Intent Tag: EMOTIONAL_Boredom
+Detected Intent: boredom
+Classifier Score: 0.9993
+------------------------------
+[2025-07-29 12:44:40] IP: 127.0.0.1 | Type: EMOTIONAL_Boredom | User: i'm bored | Bot: When I get 'bored,' I analyze new datasets! But for humans, maybe a quick creative exercise? Or would you like a joke?
+Timestamp: 2025-07-29 12:45:08
+User: a quick exercise
+Bot: I hear you.There's a strong and undeniable link between your mental and physical health; they significantly influence each other. Taking care of one often benefits the other. Would you like to explore how physical activity impacts mood, the role of nutrition, or the connection between chronic illness and mental well-being?
+Intent Tag: INFO_MentalPhysicalHealthLink
+Detected Intent: mental health physical health link
+Classifier Score: 0.7360
+------------------------------
+[2025-07-29 12:46:03] IP: 127.0.0.1 | Type: INFO_MentalPhysicalHealthLink | User: a quick exercise | Bot: I hear you.There's a strong and undeniable link between your mental and physical health; they significantly influence each other. Taking care of one often benefits the other. Would you like to explore how physical activity impacts mood, the role of nutrition, or the connection between chronic illness and mental well-being?
+[2025-07-29 12:47:46] IP: 127.0.0.1 | Type: DIALGPT_RESPONSE | User: tell me another exercise | Bot: You know, I'm gonna go with the'pullups '.
+[2025-07-29 12:50:56] IP: 127.0.0.1 | Type: OFFENSIVE_INPUT | User: what the fuck | Bot: Offensive language detected.
+[2025-07-29 13:47:45] IP: 127.0.0.1 | Type: PAGE_LOAD
+Timestamp: 2025-07-29 13:48:08
+User: hi
+Bot: Hi! Welcome. I'm ready to chat. How are you doing?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+[2025-07-29 13:48:08] IP: 127.0.0.1 | Type: GENERAL_GREETING | User: hi | Bot: Hi! Welcome. I'm ready to chat. How are you doing?
+Timestamp: 2025-07-29 13:48:14
+User: i'm happy
+Bot: So glad to hear that! Keep that positive energy flowing! Anything exciting happen to put you in such a great mood?
+Intent Tag: EMOTIONAL_PositiveMood
+Detected Intent: general positive mood
+Classifier Score: 0.9991
+------------------------------
+[2025-07-29 13:49:04] IP: 127.0.0.1 | Type: EMOTIONAL_PositiveMood | User: i'm happy | Bot: So glad to hear that! Keep that positive energy flowing! Anything exciting happen to put you in such a great mood?
+Timestamp: 2025-07-29 13:49:16
+User: i'm bored
+Bot: How about a simple gratitude practice? Think of three things you are grateful for right now, big or small. What comes to mind?
+Intent Tag: EXERCISE_GENERAL
+Detected Intent: Boredom (Direct Match)
+------------------------------
+[2025-07-29 13:49:16] IP: 127.0.0.1 | Type: EXERCISE_GENERAL | User: i'm bored | Bot: How about a simple gratitude practice? Think of three things you are grateful for right now, big or small. What comes to mind?
+Timestamp: 2025-07-29 13:50:44
+User: i'm sad
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Crisis Text Line: Text HOME to 741741 (US, Canada, UK)**
+**National Suicide Prevention Lifeline (US): 988**
+**India - Kiran Mental Health Helpline: 1800-599-0019**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9913
+------------------------------
+[2025-07-29 13:51:21] IP: 127.0.0.1 | Type: RESET
+[2025-07-29 13:51:21] IP: 127.0.0.1 | Type: CRISIS_SEVERE_DISTRESS | User: i'm sad | Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:\n**Crisis Text Line: Text HOME to 741741 (US, Canada, UK)**\n**National Suicide Prevention Lifeline (US): 988**\n**India - Kiran Mental Health Helpline: 1800-599-0019**
+Timestamp: 2025-07-29 13:51:37
+User: i'm sad
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Crisis Text Line: Text HOME to 741741 (US, Canada, UK)**
+**National Suicide Prevention Lifeline (US): 988**
+**India - Kiran Mental Health Helpline: 1800-599-0019**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9913
+------------------------------
+[2025-07-29 13:52:13] IP: 127.0.0.1 | Type: RESET
+[2025-07-29 13:52:13] IP: 127.0.0.1 | Type: CRISIS_SEVERE_DISTRESS | User: i'm sad | Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:\n**Crisis Text Line: Text HOME to 741741 (US, Canada, UK)**\n**National Suicide Prevention Lifeline (US): 988**\n**India - Kiran Mental Health Helpline: 1800-599-0019**
+[2025-07-29 14:19:20] IP: 127.0.0.1 | Type: PAGE_LOAD
+Timestamp: 2025-07-29 14:19:25
+User: hi
+Bot: Hi! I'm here to listen. What's on your mind?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+[2025-07-29 14:19:25] IP: 127.0.0.1 | Type: GENERAL_GREETING | User: hi | Bot: Hi! I'm here to listen. What's on your mind?
+Timestamp: 2025-07-29 14:19:29
+User: hi
+Bot: Hi! I'm here to listen. What's on your mind?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+[2025-07-29 14:19:29] IP: 127.0.0.1 | Type: GENERAL_GREETING | User: hi | Bot: Hi! I'm here to listen. What's on your mind?
+Timestamp: 2025-07-29 14:19:38
+User: i'm happy
+Bot: That's wonderful! It's truly great to hear you're feeling good. ✨ What's bringing you this happiness right now?
+Intent Tag: EMOTIONAL_PositiveMood
+Detected Intent: general positive mood
+Classifier Score: 0.9991
+------------------------------
+[2025-07-29 14:20:25] IP: 127.0.0.1 | Type: EMOTIONAL_PositiveMood | User: i'm happy | Bot: That's wonderful! It's truly great to hear you're feeling good. ✨ What's bringing you this happiness right now?
+Timestamp: 2025-07-29 14:20:30
+User: i'm sad
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Crisis Text Line: Text HOME to 741741 (US, Canada, UK)**
+**National Suicide Prevention Lifeline (US): 988**
+**India - Kiran Mental Health Helpline: 1800-599-0019**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9913
+------------------------------
+[2025-07-29 14:20:59] IP: 127.0.0.1 | Type: RESET
+[2025-07-29 14:20:59] IP: 127.0.0.1 | Type: CRISIS_SEVERE_DISTRESS | User: i'm sad | Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:\n**Crisis Text Line: Text HOME to 741741 (US, Canada, UK)**\n**National Suicide Prevention Lifeline (US): 988**\n**India - Kiran Mental Health Helpline: 1800-599-0019**
+Timestamp: 2025-07-29 14:21:14
+User: i'm feeling depressed
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Crisis Text Line: Text HOME to 741741 (US, Canada, UK)**
+**National Suicide Prevention Lifeline (US): 988**
+**India - Kiran Mental Health Helpline: 1800-599-0019**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9993
+------------------------------
+[2025-07-29 14:21:49] IP: 127.0.0.1 | Type: RESET
+[2025-07-29 14:21:49] IP: 127.0.0.1 | Type: CRISIS_SEVERE_DISTRESS | User: i'm feeling depressed | Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:\n**Crisis Text Line: Text HOME to 741741 (US, Canada, UK)**\n**National Suicide Prevention Lifeline (US): 988**\n**India - Kiran Mental Health Helpline: 1800-599-0019**
+[2025-07-29 14:29:42] IP: 127.0.0.1 | Type: PAGE_LOAD
+Timestamp: 2025-07-29 14:29:45
+User: hi
+Bot: Hi! Welcome. I'm ready to chat. How are you doing?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+[2025-07-29 14:29:45] IP: 127.0.0.1 | Type: GENERAL_GREETING | User: hi | Bot: Hi! Welcome. I'm ready to chat. How are you doing?
+Timestamp: 2025-07-29 14:29:53
+User: hi
+Bot: Hey! I'm Haven, your AI companion. How can I support you today?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+[2025-07-29 14:29:53] IP: 127.0.0.1 | Type: GENERAL_GREETING | User: hi | Bot: Hey! I'm Haven, your AI companion. How can I support you today?
+Timestamp: 2025-07-29 14:29:59
+User: i'm sad
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Crisis Text Line: Text HOME to 741741 (US, Canada, UK)**
+**National Suicide Prevention Lifeline (US): 988**
+**India - Kiran Mental Health Helpline: 1800-599-0019**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9913
+------------------------------
+[2025-07-29 14:30:40] IP: 127.0.0.1 | Type: RESET
+[2025-07-29 14:30:40] IP: 127.0.0.1 | Type: CRISIS_SEVERE_DISTRESS | User: i'm sad | Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:\n**Crisis Text Line: Text HOME to 741741 (US, Canada, UK)**\n**National Suicide Prevention Lifeline (US): 988**\n**India - Kiran Mental Health Helpline: 1800-599-0019**
+Timestamp: 2025-07-29 15:07:41
+Event Type: PAGE_LOAD
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 15:07:45
+Event Type: SESSION_INIT
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 15:07:45
+User: hi
+Bot: Okay.It's a great question to understand the nuances between stress, anxiety, and depression. While they can overlap, they have distinct characteristics and triggers. Would you like to learn about the key differences in symptoms, common causes, or when to seek help for each condition?
+Intent Tag: WELLBEING_StressAnxietyDepressionDifference
+Detected Intent: stress anxiety depression difference
+Classifier Score: 0.0310
+------------------------------
+Timestamp: 2025-07-29 15:08:27
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: hi
+Bot Response: Okay.It's a great question to understand the nuances between stress, anxiety, and depression. While they can overlap, they have distinct characteristics and triggers. Would you like to learn about the key differences in symptoms, common causes, or when to seek help for each condition?
+Intent Tag: WELLBEING_StressAnxietyDepressionDifference
+------------------------------
+Timestamp: 2025-07-29 15:33:24
+Event Type: PAGE_LOAD
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 15:33:29
+Event Type: SESSION_INIT
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 15:33:29
+User: hi
+Bot: Hi! Welcome. I'm ready to chat. How are you doing?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+Timestamp: 2025-07-29 15:33:29
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: hi
+Bot Response: Hi! Welcome. I'm ready to chat. How are you doing?
+Intent Tag: GENERAL_GREETING
+------------------------------
+Timestamp: 2025-07-29 15:33:33
+User: hi
+Bot: Hey! I'm Haven, your AI companion. How can I support you today?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+Timestamp: 2025-07-29 15:33:33
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: hi
+Bot Response: Hey! I'm Haven, your AI companion. How can I support you today?
+Intent Tag: GENERAL_GREETING
+------------------------------
+Timestamp: 2025-07-29 15:33:38
+User: i'm sad
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9913
+------------------------------
+Timestamp: 2025-07-29 15:34:18
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: i'm sad
+Bot Response: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+------------------------------
+Timestamp: 2025-07-29 15:35:23
+User: i'm stressed
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9985
+------------------------------
+Timestamp: 2025-07-29 15:36:02
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: i'm stressed
+Bot Response: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+------------------------------
+Timestamp: 2025-07-29 15:48:44
+Event Type: PAGE_LOAD
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 15:48:45
+Event Type: PAGE_LOAD
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 15:48:48
+Event Type: SESSION_INIT
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 15:48:48
+User: hi
+Bot: Hi! I'm here to listen. What's on your mind?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+Timestamp: 2025-07-29 15:48:48
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: hi
+Bot Response: Hi! I'm here to listen. What's on your mind?
+Intent Tag: GENERAL_GREETING
+------------------------------
+Timestamp: 2025-07-29 15:48:58
+User: i'm feeling sad
+Bot: Right.Understanding your emotional triggers is a powerful step towards managing your reactions. These are specific situations, people, or even thoughts that can set off intense emotional responses. Would you like to explore how to identify your triggers, or strategies for coping with them when they arise?
+Intent Tag: COPING_EmotionalTriggers
+Detected Intent: emotional triggers
+Classifier Score: 0.9896
+------------------------------
+Timestamp: 2025-07-29 15:49:44
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: i'm feeling sad
+Bot Response: Right.Understanding your emotional triggers is a powerful step towards managing your reactions. These are specific situations, people, or even thoughts that can set off intense emotional responses. Would you like to explore how to identify your triggers, or strategies for coping with them when they arise?
+Intent Tag: COPING_EmotionalTriggers
+------------------------------
+Timestamp: 2025-07-29 15:57:50
+User: i'm stressed
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9985
+------------------------------
+Timestamp: 2025-07-29 15:58:22
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: i'm stressed
+Bot Response: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+------------------------------
+Timestamp: 2025-07-29 16:05:39
+User: i'm kinda stressed
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9894
+------------------------------
+Timestamp: 2025-07-29 16:06:29
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: i'm kinda stressed
+Bot Response: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+------------------------------
+Timestamp: 2025-07-29 16:05:52
+User: it was a bad day
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9937
+------------------------------
+Timestamp: 2025-07-29 16:06:40
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: it was a bad day
+Bot Response: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+------------------------------
+Timestamp: 2025-07-29 16:29:48
+Event Type: PAGE_LOAD
+IP Address (Session ID): 192.168.241.29
+------------------------------
+Timestamp: 2025-07-29 16:30:14
+Event Type: PAGE_LOAD
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 16:30:19
+Event Type: SESSION_INIT
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 16:30:19
+User: hi
+Bot: Hey! I'm Haven, your AI companion. How can I support you today?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+Timestamp: 2025-07-29 16:36:51
+Event Type: PAGE_LOAD
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 16:36:53
+Event Type: SESSION_INIT
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 16:36:53
+User: hi
+Bot: Hello there! It's so great to connect with you. 🌟
+How are you feeling today?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+Timestamp: 2025-07-29 16:36:53
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: hi
+Bot Response: Hello there! It's so great to connect with you. 🌟
+How are you feeling today?
+Intent Tag: GENERAL_GREETING
+------------------------------
+Timestamp: 2025-07-29 16:37:00
+User: i'm sad
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9913
+------------------------------
+Timestamp: 2025-07-29 16:37:47
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: i'm sad
+Bot Response: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+------------------------------
+Timestamp: 2025-07-29 16:51:29
+Event Type: PAGE_LOAD
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 16:51:30
+Event Type: PAGE_LOAD
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 16:53:23
+Event Type: PAGE_LOAD
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 16:53:30
+Event Type: SESSION_INIT
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 16:53:30
+Event Type: GENERAL_GREETING
+IP Address (Session ID): N/A
+User Input: hi
+Bot Response: Hey! I'm Haven, your AI companion. How can I support you today?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+Timestamp: 2025-07-29 16:53:30
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: hi
+Bot Response: Hey! I'm Haven, your AI companion. How can I support you today?
+Intent Tag: GENERAL_GREETING
+------------------------------
+Timestamp: 2025-07-29 16:54:30
+Event Type: CRISIS_DETECTED
+IP Address (Session ID): N/A
+User Input: i'm sad
+Bot Response: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9913
+------------------------------
+Timestamp: 2025-07-29 16:54:30
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: i'm sad
+Bot Response: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+------------------------------
+Timestamp: 2025-07-29 16:55:23
+Event Type: CRISIS_DETECTED
+IP Address (Session ID): N/A
+User Input: i'm stressed
+Bot Response: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9985
+------------------------------
+Timestamp: 2025-07-29 16:55:23
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: i'm stressed
+Bot Response: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+------------------------------
+Timestamp: 2025-07-29 16:56:55
+Event Type: PAGE_LOAD
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 16:57:01
+Event Type: SESSION_INIT
+IP Address (Session ID): 127.0.0.1
+------------------------------
+Timestamp: 2025-07-29 16:57:01
+User: hi
+Bot: Hello there! It's so great to connect with you. 🌟
+How are you feeling today?
+Intent Tag: GENERAL_GREETING
+Detected Intent: Greeting
+------------------------------
+Timestamp: 2025-07-29 16:57:01
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: hi
+Bot Response: Hello there! It's so great to connect with you. 🌟
+How are you feeling today?
+Intent Tag: GENERAL_GREETING
+------------------------------
+Timestamp: 2025-07-29 16:57:06
+User: i'm happy
+Bot: That's wonderful! It's truly great to hear you're feeling good. ✨ What's bringing you this happiness right now?
+Intent Tag: EMOTIONAL_PositiveMood
+Detected Intent: general positive mood
+Classifier Score: 0.9991
+------------------------------
+Timestamp: 2025-07-29 16:57:57
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: i'm happy
+Bot Response: That's wonderful! It's truly great to hear you're feeling good. ✨ What's bringing you this happiness right now?
+Intent Tag: EMOTIONAL_PositiveMood
+------------------------------
+Timestamp: 2025-07-29 16:58:04
+User: i'm sad
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9913
+------------------------------
+Timestamp: 2025-07-29 16:58:46
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: i'm sad
+Bot Response: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+------------------------------
+Timestamp: 2025-07-29 16:58:59
+User: i'm stressed
+Bot: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+Detected Intent: severe distress
+Classifier Score: 0.9985
+------------------------------
+Timestamp: 2025-07-29 16:59:40
+Event Type: STRUCTURED_RESPONSE
+IP Address (Session ID): 127.0.0.1
+User Input: i'm stressed
+Bot Response: I hear you, and it sounds like you're going through a lot of distress right now. Your feelings are valid, and I'm here to listen. **Please remember you are not alone in this, and you matter.** Would you like to talk more about what's on your mind? If you feel overwhelmed and need immediate support, please reach out to:
+**Kiran Mental Health Helpline: 1800-599-0019 (24/7 Free)**
+**Vandrevala Foundation Helpline: 1860-2662-345 or 1800-2333-330**
+**National Emergency Number: 112**
+Intent Tag: CRISIS_SEVERE_DISTRESS
+------------------------------

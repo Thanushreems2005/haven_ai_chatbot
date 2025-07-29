@@ -1,0 +1,35 @@
+Timestamp: 2025-07-29 00:50:35
+User Input: hi
+Bot Response: It sounds like you're feeling a mix of things, including heal from past trauma, balancing life to avoid stress, improve mental well-being, need mental health support, and help partner struggling. That's a lot to navigate. Which of these feelings or issues would you like to focus on first?
+Intent Type: MULTI_INTENT_CHOICE
+Detected Intent: ['heal from past trauma', 'balance life avoid stress', 'improve mental well-being', 'need mental health support', 'help partner struggling']
+--------------------------------------------------
+
+Timestamp: 2025-07-29 01:05:14
+User Input: hi
+Bot Response: Hello there! It's so great to connect with you. 🌟
+How are you feeling today?
+Intent Type: GENERAL_GREETING
+--------------------------------------------------
+
+Timestamp: 2025-07-29 09:36:11
+User Input: hi
+Bot Response: Hello there! It's so great to connect with you. 🌟
+How are you feeling today?
+Intent Type: GENERAL_GREETING
+--------------------------------------------------
+
+Timestamp: 2025-07-29 09:36:23
+User Input: i'm depressed
+Bot Response: It sounds like you're feeling a mix of things, including signs of poor mental health, the deepening depression and that heavy, unmotivated feeling, need mental health support, distinguishing between sadness and depression, bad day calm down, feeling not good enough, feeling sad all the time, manage overwhelming emotions, emotional triggers, telling someone about depression, talk about mental health, feeling completely burned out, know if ptsd, ADHD overwhelm, help partner struggling, the struggle of being tired but unable to sleep, stress anxiety depression differences, mental health physical health link, what is mental health, the signs of burnout, the feelings of loneliness, feeling drained after social interactions, know if need therapy, deal with guilt or shame, stopping feeling numb, those intrusive thoughts from OCD, worries about your health, the lingering stress and feeling overwhelmed by tasks, cannot afford therapy, the pain of heartbreak, crying for no reason, self-care tips for depression, knowing if you have anxiety, and postpartum depression. That's a lot to navigate. Which of these issues would you like to focus on first?
+Intent Type: MULTI_INTENT_CHOICE
+Detected Intent: ['signs of poor mental health', 'depressive episode', 'need mental health support', 'am i depressed or sad', 'bad day calm down', 'feeling not good enough', 'feeling sad all the time', 'manage overwhelming emotions', 'emotional triggers', 'tell someone about depression', 'talk about mental health', 'feeling burned out', 'know if ptsd', 'adhd overwhelm', 'help partner struggling', 'cannot sleep tired', 'stress anxiety depression difference', 'mental health physical health link', 'what is mental health', 'signs of burnout', 'loneliness', 'drained after socializing', 'know if need therapy', 'deal with guilt or shame', 'stop feeling numb', 'ocd intrusive thoughts', 'health anxiety', 'overwhelming stress', 'cannot afford therapy', 'breakup grief', 'cry for no reason', 'self-care tips for depression', 'know if anxiety', 'postpartum depression']
+--------------------------------------------------
+
+Timestamp: 2025-07-29 09:37:21
+User Input: i'm kinda depressed
+Bot Response: It sounds like you're feeling a mix of things, including signs of poor mental health, the deepening depression and that heavy, unmotivated feeling, distinguishing between sadness and depression, feeling not good enough, need mental health support, bad day calm down, emotional triggers, manage overwhelming emotions, talk about mental health, feeling completely burned out, telling someone about depression, help partner struggling, the feelings of loneliness, stress anxiety depression differences, ADHD overwhelm, feeling sad all the time, what is mental health, deal with guilt or shame, the struggle of being tired but unable to sleep, know if ptsd, the signs of burnout, mental health physical health link, feeling drained after social interactions, know if need therapy, those intrusive thoughts from OCD, elderly isolation, stopping feeling numb, and knowing if you have anxiety. That's a lot to navigate. Which of these issues would you like to focus on first?
+Intent Type: MULTI_INTENT_CHOICE
+Detected Intent: ['signs of poor mental health', 'depressive episode', 'am i depressed or sad', 'feeling not good enough', 'need mental health support', 'bad day calm down', 'emotional triggers', 'manage overwhelming emotions', 'talk about mental health', 'feeling burned out', 'tell someone about depression', 'help partner struggling', 'loneliness', 'stress anxiety depression difference', 'adhd overwhelm', 'feeling sad all the time', 'what is mental health', 'deal with guilt or shame', 'cannot sleep tired', 'know if ptsd', 'signs of burnout', 'mental health physical health link', 'drained after socializing', 'know if need therapy', 'ocd intrusive thoughts', 'elderly isolation', 'stop feeling numb', 'know if anxiety']
+--------------------------------------------------
+
